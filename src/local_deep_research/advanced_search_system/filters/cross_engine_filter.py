@@ -13,6 +13,7 @@ from .base_filter import BaseFilter
 logger = logging.getLogger(__name__)
 
 
+
 class CrossEngineFilter(BaseFilter):
     """Filter that ranks and filters results from multiple search engines."""
 
