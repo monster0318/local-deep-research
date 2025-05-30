@@ -2,7 +2,6 @@
 API module for Local Deep Research.
 Provides programmatic access to search and research capabilities.
 """
-
 import logging
 from typing import Any, Callable, Dict, Optional
 
