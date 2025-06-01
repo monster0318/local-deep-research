@@ -14,6 +14,7 @@ from ..utilities.search_utilities import remove_think_tags
 logger = logging.getLogger(__name__)
 
 
+
 def _init_search_system(
     model_name: str | None = None,
     temperature: float = 0.7,
